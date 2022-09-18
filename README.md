@@ -19,5 +19,9 @@
 
 ### 1. Using Random function 
 ### 2. Connect SSD1306(OLED))
+  https://github.com/irinakim12/wiznet_lottery-number-generation/releases/tag/OLED
+  
+  ![WIN_20220919_07_43_39_Pro (1)](https://user-images.githubusercontent.com/9648281/190931933-7cc5fa4f-9054-4c93-affa-ca3975c27ee4.gif)
+
 ### 3. Communicate with smart Phone
 ### 4. Using PRNG in rp2040

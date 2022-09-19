@@ -26,6 +26,8 @@
 ### 3. Communicate with smart Phone
 https://github.com/irinakim12/wiznet_lottery-number-generation/releases/tag/TCP
 
+![pico-mute](https://user-images.githubusercontent.com/9648281/190949977-76c29d86-fdce-4bb4-8236-6fd1a5cc5f0e.gif)
+
 ![WIN_20220919_10_59_48_Pro](https://user-images.githubusercontent.com/9648281/190940530-3c5a9340-a50a-40d2-a383-69b64278bd3d.jpg)
 
 

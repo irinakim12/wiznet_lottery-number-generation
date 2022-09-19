@@ -18,12 +18,12 @@
 # Development Plan
 
 ### 1. Using Random function 
-### 2. Connect SSD1306(OLED))
+### 2. Connect SSD1306(OLED)) - 22.09.15
   https://github.com/irinakim12/wiznet_lottery-number-generation/releases/tag/OLED
   
   ![WIN_20220919_07_43_39_Pro (1)](https://user-images.githubusercontent.com/9648281/190931933-7cc5fa4f-9054-4c93-affa-ca3975c27ee4.gif)
 
-### 3. Communicate with smart Phone
+### 3. Communicate with smart Phone - 22.09.19
 https://github.com/irinakim12/wiznet_lottery-number-generation/releases/tag/TCP
 
 ![pico-mute](https://user-images.githubusercontent.com/9648281/190949977-76c29d86-fdce-4bb4-8236-6fd1a5cc5f0e.gif)
